@@ -3,8 +3,7 @@
 
 **[Project: Breast Cancer Diagnosis with EM & GMM in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
 
-![cells]("https://github.com/sigmalgebra/DataScience_Portfolio/blob/main/images/celle_nucle.jpeg" alt="Breast Cancer Cells")
-
+![](https://github.com/sigmalgebra/DataScience_Portfolio/blob/main/images/celle_nucle.jpeg)
 - **Data Preprocessing** in R, preparing the dataset for analysis.
 - Conducted **Principal Component Analysis (PCA)**, achieving dimensionality reduction.
 - Expertly visualized high-dimensional data with **ggplot2**.
