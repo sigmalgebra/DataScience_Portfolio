@@ -1,20 +1,23 @@
 # Neil Portfolio
 
-
-**[Project: Breast Cancer Diagnosis with EM & GMM in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
+ 
+**[Project: Breast Cancer Diagnosis with Supervised and Unsupervised Learning in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
 
 ![](https://github.com/sigmalgebra/DataScience_Portfolio/blob/main/images/celle_nucle.jpeg)
-- **Data Preprocessing** in R, preparing the dataset for analysis.
-- Conducted **Principal Component Analysis (PCA)**, achieving dimensionality reduction.
-- Expertly visualized high-dimensional data with **ggplot2**.
-- Executed **Expectation-Maximization (EM) Algorithm** and **Gaussian Mixture Models (GMM)**, employing probabilistic soft clustering.
-- Leveraged **Kullback-Leibler (KL) Divergence** to measure the distance between probability distributions of the original and reduced dimensions.
-- Evaluated model performance via **Cross-Validation** and **Confusion Matrix** analysis.
+
+- Developed an advanced breast cancer diagnosis model using supervised and unsupervised learning techniques in R.
+- Proficient in data preprocessing, feature extraction, and visualization with ggplot2.
+- Employed supervised learning algorithms to classify breast tumors as benign or malignant.
+- Utilized unsupervised learning techniques, such as Expectation-Maximization (EM) Algorithm and Gaussian Mixture Models (GMM), for clustering malignant tumors.
+- Leveraged the Kullback-Leibler (KL) distance to measure the dissimilarity between probability distributions.
+- Conducted thorough model evaluation through cross-validation and confusion matrix analysis.
+- Applied rigorous model selection techniques to identify the most effective algorithms for breast cancer diagnosis.
 
 **Skills Demonstrated**:
 
-- Proficiency in R, and data visualization with ggplot2.
-- Mastery of EM Algorithm and GMM for soft clustering.
-- Advanced statistical understanding through PCA and KL Divergence.
-- Rigorous model evaluation techniques including cross-validation and confusion matrix analysis.
- 
+- Proficient in R for data preprocessing, visualization, and advanced statistical analysis.
+- Expertise in supervised learning algorithms for accurate classification of breast tumors.
+- Strong understanding and application of unsupervised learning techniques, including Expectation-Maximization (EM) Algorithm and Gaussian Mixture Models (GMM).
+- Skillful use of the Kullback-Leibler (KL) distance to measure dissimilarity between probability distributions.
+- Thorough model evaluation through cross-validation and confusion matrix analysis.
+- Skilled in model selection to identify the most effective algorithms for breast cancer diagnosis.
