@@ -1,7 +1,7 @@
 # Neil Portfolio
 
  
-**[Project: Breast Cancer Diagnosis with Supervised and Unsupervised Learning in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
+**[Project: Breast Cancer Diagnosis with Gaussian Mixture models in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
 
 ![](https://github.com/sigmalgebra/DataScience_Portfolio/blob/main/images/celle_nucle.jpeg)
 
