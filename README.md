@@ -1,4 +1,4 @@
-# Neil Portfolio
+# Portfolio
 
  
 **[Project: Breast Cancer Diagnosis with Gaussian Mixture models in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
